@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "PyCon Zimbabwe 2018"
 email: "zim.pycon@gmail.com"
 description: "PyCon Zim is the conference for Python programmers in Zimbabwe"
-baseurl: "/pyzim"
+baseurl: ""
 url: "https://pyzim.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
