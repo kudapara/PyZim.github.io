@@ -12,9 +12,12 @@
             margin: 0;
             padding: 0;
         }
+        h1 {
+            font-weight: $extra-bold;
+        }
         p {
             font-size: $base-font-size * 2;
-            font-weight: $light;
+            font-weight: $bold;
             margin-bottom: 15px;
         }
         .btn {

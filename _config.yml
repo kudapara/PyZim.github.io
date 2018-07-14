@@ -43,7 +43,7 @@ c4sponsorsUrl: "/assets/"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/blog/", text: "News"}
  - {permalink: "/#tickets", text: "Tickets"}
  # - {permalink: "/schedule/", text: "Schedule"}
  # - {permalink: "/speakers/", text: "Speakers"}
@@ -51,26 +51,26 @@ navigationLinks:
  # - {permalink: "/logistics/", text: "Logistics"}
  # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://bit.ly/pyconzim-cfp", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://bit.ly/pyconzim-cfp", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "PyConZim 2018 <typeout> Harare"
-eventDate: "19-20 October, 2018"
+eventDate: "19-20 October"
 typeoutTextValues: '"", "", ""'
 typeoutFallback: ""
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://bit.ly/pyconzim-cfp", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About PyConZim"
 aboutBlock:
- - {title: "Main Conference Day", image: "conference.jpg", text: "Topics will include the whole python software development ecosystem" }
+ - {title: " Conference Day", image: "conference.jpg", text: "Full Day of talks on Python and related technologies presented by Zimbabwean & international speakers" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Recruit Session", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Networking", image: "hackathon.jpg", text: "At PyConZim you will get a chance to meet and mingle with Africa's talented software developers" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -78,7 +78,7 @@ statisticBlock:
  - {count: "150", specialCharacter: "+", info: "participants", detail: "attending talks, training sessions and the CTF"}
  - {count: "2", specialCharacter: "+", info: "days", detail: "of Talks & Workshops"}
  - {count: "20", specialCharacter: "+", info: "speakers", detail: "from Zimbabwe and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -86,8 +86,8 @@ latestNewsTitle: "Latest news"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersTitle: "Local & International speakers"
+# rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
@@ -117,22 +117,22 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterHashTag: "pyconzim"
+twitterFeed: ""
 
 # Partners Block
 # organizersTitle: "Organizers"
 # partnersTitle: "Partners"
 partnersC4sponsorsButton: "Become a sponsor"
 
-# Subscribe Block
+#  call for sponsors
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
+subscribeTitle: "Become a sponsor"
 subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeInfo: "Support the event by becoming a sponsor. Flexible packages available to make your brand visible at Zimbabwe's biggest conference of software developers ."
 
 # Tickets Block
-ticketsTitle: "Pricetable"
+ticketsTitle: "Buy your ticket now!"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
@@ -141,8 +141,9 @@ ticketsOffers:
   priceCurrency: "USD"
   ticketsNumber: ""
   ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
+  buyButtonLink: "https://www.paynow.co.zw/Payment/Link/?q=c2VhcmNoPXB5dGhvbi56aW0lNDBnbWFpbC5jb20mYW1vdW50PTIwLjAwJnJlZmVyZW5jZT0mbD0x"
+  buyButtonText: ""
+  additionalInfo: "Buy your ticket before the 30th of July and get a discount "
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2018-07-13T10:00"
   validThrough: "2018-07-30T23:59"
@@ -153,8 +154,8 @@ ticketsOffers:
   ticketsNumber: "TBA"
   ribbon: "-20%"
   featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
+  buyButtonLink: "https://www.paynow.co.zw/Payment/Link/?q=c2VhcmNoPXB5dGhvbi56aW0lNDBnbWFpbC5jb20mYW1vdW50PTI1LjAwJnJlZmVyZW5jZT0mbD0x"
+  buyButtonText: " "
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2018-08-01T00:00"
   validThrough: "2018-10-20T23:59"
@@ -164,8 +165,8 @@ ticketsOffers:
   price: "15"
   priceCurrency: "USD"
   ticketsNumber: "TBA"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
+  buyButtonLink: "https://www.paynow.co.zw/Payment/Link/?q=c2VhcmNoPXB5dGhvbi56aW0lNDBnbWFpbC5jb20mYW1vdW50PTE1LjAwJnJlZmVyZW5jZT0mbD0x"
+  buyButtonText: " "
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2108-08-20T10:00"
@@ -177,9 +178,9 @@ ticketsOffers:
   price: "100"
   priceCurrency: "USD"
   ticketsNumber: ""
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Companies will be allowed to brind a maximum of 4 attendees"
+  buyButtonLink: "https://www.paynow.co.zw/Payment/Link/?q=c2VhcmNoPXB5dGhvbi56aW0lNDBnbWFpbC5jb20mYW1vdW50PTEwMC4wMCZyZWZlcmVuY2U9Jmw9MQ%3d%3d"
+  buyButtonText: " "
+  additionalInfo: "Buy this ticket if your company is paying for you. This ticket grants you access to the talks & workshops"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2018-07-16T10:00"
   validThrough: "2018-10-20T23:59"
@@ -197,8 +198,7 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://groups.google.com", text: "Zimbabwe Python Users Group"}
  -
   title: "Contacts"
   links:
@@ -211,7 +211,7 @@ footerBlocks:
 # Blog
 blogTitle: "Latest news"
 blogCommentsEnabled: true
-discusShortName: "devfestua"
+discusShortName: "pyconzim"
 
 # Speakers List Block
 showSessions: true
