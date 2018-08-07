@@ -36,8 +36,8 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/"
+c4pUrl: "http://bit.ly/pyconzim-cfp"
+c4sponsorsUrl: "http://bit.ly/spon-pyzim"
 
 
 # Navigation
@@ -95,15 +95,15 @@ eventLocationName: "Conference Hall"
 eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
 eventStreetAddress: "Harare"
 eventAddressLocality: "Harare"
-eventAddressLocalityRegion: "Lvivska"
+eventAddressLocalityRegion: "Harare"
 eventPostalCode: "79000"
 eventAddressCountry: "Harare"
 eventStartTime: "2018-10-18T08:00"
 eventDoorTime: "08:00"
 eventEndTime: "2018-10-20T20:00"
-eventPlaceCoordinates: "17.8252° S, 31.0335° E"
-mapCenterCoordinates: "17.8252° S, 31.0335° E"
-mapMobileCenterCoordinates: "17.8252° S, 31.0335° E"
+eventPlaceCoordinates: "17.8252, 31.0335"
+mapCenterCoordinates: "17.8252 , 31.0335"
+mapMobileCenterCoordinates: "17.8252, 31.0335"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -135,18 +135,19 @@ subscribeInfo: "Support the event by becoming a sponsor. Flexible packages avail
 ticketsTitle: "Buy your ticket now!"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
- -
-  name: "Early Bird"
-  price: "20"
-  priceCurrency: "USD"
-  ticketsNumber: ""
-  ribbon: "-5%"
-  buyButtonLink: "https://www.paynow.co.zw/Payment/Link/?q=c2VhcmNoPXB5dGhvbi56aW0lNDBnbWFpbC5jb20mYW1vdW50PTIwLjAwJnJlZmVyZW5jZT0mbD0x"
-  buyButtonText: ""
-  additionalInfo: "Buy your ticket before the 30th of July and get a discount "
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2018-07-13T10:00"
-  validThrough: "2018-07-30T23:59"
+ # -
+ #  name: "Early Bird"
+ #  price: "20"
+ #  priceCurrency: "USD"
+ #  ticketsNumber: ""
+ #  ribbon: "-5%"
+ #  buyButtonLink: "https://www.paynow.co.zw/Payment/Link/?q=c2VhcmNoPXB5dGhvbi56aW0lNDBnbWFpbC5jb20mYW1vdW50PTIwLjAwJnJlZmVyZW5jZT0mbD0x"
+ #  buyButtonText: ""
+ #  additionalInfo: "Buy your ticket before the 30th of July and get a discount "
+ #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+ #  validFrom: "2018-07-13T10:00"
+ #  validThrough: "2018-07-30T23:59"
+ #  disabled: true
  -
   name: "Regular"
   price: "25"
@@ -155,11 +156,11 @@ ticketsOffers:
   ribbon: "-20%"
   featured: true
   buyButtonLink: "https://www.paynow.co.zw/Payment/Link/?q=c2VhcmNoPXB5dGhvbi56aW0lNDBnbWFpbC5jb20mYW1vdW50PTI1LjAwJnJlZmVyZW5jZT0mbD0x"
+  additionalInfo: "This ticket grants you full access to the conference"
   buyButtonText: " "
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2018-08-01T00:00"
   validThrough: "2018-10-20T23:59"
-  disabled: true
  -
   name: "Student"
   price: "15"
@@ -228,8 +229,8 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+logisticsMapCenterCoordinates: ""
+logisticsMapMobileCenterCoordinates: ""
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
