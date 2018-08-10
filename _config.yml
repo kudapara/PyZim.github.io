@@ -46,8 +46,10 @@ navigationLinks:
  - {permalink: "/blog/", text: "News"}
  - {permalink: "/#tickets", text: "Tickets"}
  - {permalink: "/cod/", text: "Code Of Conduct"}
+ - {permalink: "/#about", text: "About"}
+ - {permalink: "/#partners", text: "Sponsors"}
  # - {permalink: "/schedule/", text: "Schedule"}
- # - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/#rockstar-speakers", text: "Speakers"}
  # - {permalink: "/team/", text: "Team"}
  # - {permalink: "/logistics/", text: "Logistics"}
  # - {permalink: "/hackathon/", text: "Hackathon"}
@@ -88,7 +90,7 @@ latestNewsTitle: "Latest news"
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Local & International speakers"
-# rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"

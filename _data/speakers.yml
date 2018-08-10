@@ -1,0 +1,11 @@
+-
+  id: 1
+  name: "Cleopatra"
+  surname: "Douglas"
+  company: "Guaranty Trust Bank (SL) ltd"
+  title: "African Tech Educator"
+  bio: "I am an African Tech Educator. I am particularly hyped on Fintech and education in Africa. I am currently working on developing and enhancing payment systems with an organization in sierra leone, as well as contribute to developing and maintaining developer communities in Africa."
+  thumbnailUrl: cleopatra.jpg"
+  rockstar: true
+  social:
+    - {name: "google-plus", link: ""}
