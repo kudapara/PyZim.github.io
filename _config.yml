@@ -45,6 +45,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "News"}
  - {permalink: "/#tickets", text: "Tickets"}
+ - {permalink: "/cod/", text: "Code Of Conduct"}
  # - {permalink: "/schedule/", text: "Schedule"}
  # - {permalink: "/speakers/", text: "Speakers"}
  # - {permalink: "/team/", text: "Team"}
