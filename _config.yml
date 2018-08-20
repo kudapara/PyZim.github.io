@@ -136,7 +136,7 @@ subscribeInfo: "Support the event by becoming a sponsor. Flexible packages avail
 
 # Tickets Block
 ticketsTitle: "Buy your ticket now!"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsInfo: "Tickets grant access to all conference sections, coffee breaks, and lunch. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  # -
  #  name: "Early Bird"
