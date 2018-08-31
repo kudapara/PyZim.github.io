@@ -190,7 +190,19 @@ ticketsOffers:
   validThrough: "2018-10-20T23:59"
   soldOut: false
   soldOutText: "Sold Out"
-
+ -
+  name: "Workshop/Tutorial"
+  price: "12"
+  priceCurrency: "USD"
+  ticketsNumber: ""
+  buyButtonLink: "https://www.paynow.co.zw/Payment/Link/?q=c2VhcmNoPXB5dGhvbi56aW0lNDBnbWFpbC5jb20mYW1vdW50PTEyLjAwJnJlZmVyZW5jZT0mbD0x"
+  buyButtonText: " "
+  additionalInfo: "Buy this ticket if you want to attend the workshops and training sessions only on Saturday."
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2018-07-16T10:00"
+  validThrough: "2018-10-20T23:59"
+  soldOut: false
+  soldOutText: "Sold Out"
 
 # Footer
 socialLinks:
