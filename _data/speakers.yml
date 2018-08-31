@@ -9,3 +9,15 @@
   rockstar: true
   social:
     - {name: "google-plus", link: ""}
+
+-
+  id: 2
+  name: "Nick"
+  surname: "Doiron"
+  company: "McKinsey & Company"
+  title: "Geospatial Data in Python and PostgreSQL"
+  bio: "Nick is a senior software engineer and geospatial analyst at McKinsey & Company. In the past he has worked with Code for America, One Laptop per Child, the Asia Foundation, and the Museum of Modern Art (NYC)."
+  thumbnailUrl: nick.jpg"
+  rockstar: true
+  social:
+    - {name: "google-plus", link: ""}
