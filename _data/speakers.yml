@@ -21,3 +21,15 @@
   rockstar: true
   social:
     - {name: "google-plus", link: ""}
+
+-
+  id: 3 
+  name: "Tongayi"
+  surname: "Choto"
+  company: "BitMari"
+  title: "BitMari Smart Farm Contract"
+  bio: "Tongayi is the Product Development at BitMari, a Pan-African Fintech startup that is focused on building the African Diaspora's financial solutions."
+  thumbnailUrl: tongai.jpeg"
+  rockstar: true
+  social:
+    - {name: "google-plus", link: ""}
