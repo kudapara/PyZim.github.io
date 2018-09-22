@@ -73,3 +73,12 @@ I have done talks before on the testing infrastructure we use, but we also have 
   description: ""
   subtype: workshop
 -
+-
+  id:  3 
+  title: "BitMari Smart Farm Contracts with Python"
+  place: "The Nexus"
+  service: true
+  speakers: [3]
+  description: ""
+  subtype: workshop
+-
