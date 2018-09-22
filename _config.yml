@@ -94,9 +94,9 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "Harare"
+eventLocationName: "B2C Coworking"
+eventLocationLink: "http://www.b2c.co.zw/"
+eventStreetAddress: "Cnr Jason Moyo Ave and First Street, Harare"
 eventAddressLocality: "Harare"
 eventAddressLocalityRegion: "Harare"
 eventPostalCode: "79000"
@@ -104,8 +104,8 @@ eventAddressCountry: "Harare"
 eventStartTime: "2018-10-18T08:00"
 eventDoorTime: "08:00"
 eventEndTime: "2018-10-20T20:00"
-eventPlaceCoordinates: "17.8252, 31.0335"
-mapCenterCoordinates: "17.8252 , 31.0335"
+eventPlaceCoordinates: "17.8995548,30.9545836"
+mapCenterCoordinates: "17.8995548,30.9545836"
 mapMobileCenterCoordinates: "17.8252, 31.0335"
 
 # Venue Block
@@ -244,17 +244,17 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: ""
-logisticsMapMobileCenterCoordinates: ""
+logisticsMapCenterCoordinates: "17.8995548,30.9545836"
+logisticsMapMobileCenterCoordinates: "17.8995548,30.9545836"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Lviv"
+directionDetailsTitle: "Get around Harare"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "From the Airport", information: 'Robert Mugabe Internationa Airport is located 15 km south of Harares central business district and acts as the link between Harare and the outside world. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://www.caaz.co.zw/">airport website</a>.'}
+ - {title: "Public Transit", information: 'You can find your way in Harare using public transport or taxis.'}
+ - {title: "Hotels", information: 'Harare has lots of great hotels and hostels. More information will be available later.'}
 directionDetailsWideCards:
  -
   title: "Questions?"
@@ -262,10 +262,10 @@ directionDetailsWideCards:
    -
     title: "Hotels"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "http://brontehotel.com/", text: "Bronte Garden Hotel"}
+     - {link: "http://queensgatebaines.com/", text: "Queensgate & Baines"}
+     - {link: "http://www.crestahotels.com/hotels/cresta-oasis", text: "Cresta Oasis"}
+     - {link: "http://www.crestahotels.com/hotels/cresta-jameson", text: "Cresta Jameson"}
    -
     title: "Registration"
     links:
@@ -319,4 +319,4 @@ hackathonEndTime: "2014-10-25T00:00"
 viewOnMap: "View on Google Maps"
 hackathonPlaceCoordinates: "49.840999, 24.031144"
 hackathonMapCenterCoordinates: "49.840696, 24.028754"
-hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
+hackathonMapMobileCenterCoordinates: "49.840696, 24.028754"

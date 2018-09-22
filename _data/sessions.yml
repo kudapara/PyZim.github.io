@@ -1,1 +1,66 @@
+-
+  id: 5
+  title: "Graphql & Python"
+  place: "The Nexus"
+  service: true
+  speakers: [5]
+  description: "One of the most commonly occurring data structures in life is a graph. Our relationships on social platforms like Facebook and Twitter are just few of the examples that can be represented in this way.In this talk we will present how to use python to present a GraphQL API . In particular we will use the python packages flask and graphene-python to build a graph of the local music industry and expose it as a GraphQL API. "
+-
+-
+  id: 1 
+  title: "USSD FOR AFRICA (A CASE STUDY OF AFRICAISTALKING API AND CAREERAWAREAFRICA)"
+  place: "The Nexus"
+  service: true
+  speakers: [1]
+  description: "Every time you dial *XYZ# to check the airtime balance on your phone, you are using a decades old technology standard called USSD. For a very long time, that’s pretty much all it was used for, but now the game has changed.
 
+USSD stands for Unstructured Supplementary Service Data and I suppose it never got a catchy mainstream alias because it never really took off. Mobile operators, especially in Africa — where the market is primarily prepaid—typically use USSD for their internal applications such as balance checks, top-ups, data bundles, and promotions.
+
+More recently, banks and utility companies have started taking advantage of the protocol to build mobile banking and utility management applications all across the continent, but this can do even greater things for us. We can enhance our Education system/sector with this and make knowledge accessible. This talk is on building a USSD google for education."
+-
+-
+  id: 4 
+  title: "A guide to getting remote work"
+  place: "The Nexus"
+  service: true
+  speakers: [4]
+  description: "Remote jobs are becoming more prevalent with each passing year because they allow for flexibility in choosing your working hours and work location. This talk will explain useful ways to find remote work and give tips based on my personal experience as a remote employee. The talk will discuss different payment methods freelancers can use to receive payments from international clients. Lastly, the talk will cover productivity tips that will help listeners to work effectively and thrive in a remote environment."
+-
+-
+  id: 2 
+  title: "Geospatial Data in Python and PostgreSQL"
+  place: "The Nexus"
+  service: true
+  speakers: [2]
+  description: "Learn how to make an interactive map, focusing on the backend Python server and a PostgreSQL/PostGIS database. This workshop covers each step from finding sources of geospatial data (official sources, OpenStreetMap), to making standard SQL and spatial queries, to writing an API in Python to support a website. Best for programmers with previous Python or SQL experience."
+  subtype: workshop
+-
+-
+  id: 2 
+  title: "Geospatial Data in Python and PostgreSQL"
+  place: "The Nexus"
+  service: true
+  speakers: [2]
+  description: "Learn how to make an interactive map, focusing on the backend Python server and a PostgreSQL/PostGIS database. This workshop covers each step from finding sources of geospatial data (official sources, OpenStreetMap), to making standard SQL and spatial queries, to writing an API in Python to support a website. Best for programmers with previous Python or SQL experience."
+  subtype: workshop
+-
+-
+  id: 6 
+  title: "Components and Configuration in Reahl"
+  place: "The Nexus"
+  service: true
+  speakers: [6]
+  description: "I am an advocate of the idea that Africans should develop and export open source software. I also like to lead by example: I am the main author of Reahl, a full-stack web framework that allows you to write a web application using Python only, and on a high level of abstraction.
+
+Reahl is a risky experimental project rethinking the way web frameworks can work.
+
+Not everyone would be interested in using the Reahl web framework itself. However during the course of working on Reahl, we have experimented with different ways of dealing with other aspects of a system – aspects that are not tied to the web framework itself. As a result, parts of Reahl can be used in their own right, independently of the Reahl web framework itself. These parts of Reahl are not well known.
+
+I have done talks before on the testing infrastructure we use, but we also have novel ways for dealing with things like:
+
+  - configuration;
+  - internationalisation; and
+  -database schema migration.
+  - In this talk I’d like to explain the component-nature of Reahl programs and how we handle configuration in that environment."
+  subtype: workshop
+-

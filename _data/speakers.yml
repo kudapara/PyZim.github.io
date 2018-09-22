@@ -23,13 +23,51 @@
     - {name: "google-plus", link: ""}
 
 -
-  id: 3 
+  id: 3
   name: "Tongayi"
   surname: "Choto"
   company: "BitMari"
   title: "BitMari Smart Farm Contract"
   bio: "Tongayi is the Product Development at BitMari, a Pan-African Fintech startup that is focused on building the African Diaspora's financial solutions."
-  thumbnailUrl: tongai.jpeg"
+  thumbnailUrl: tongai.jpeg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: ""}
+-
+  id: 4
+  name: "Vuyisile"
+  surname: "Ndlovhu"
+  company: "Reahl Python"
+  title: "A guide to getting remote work"
+  bio: "Blogger, Software Developer, Editorial Assistant at Real Python."
+  thumbnailUrl: vuyi.jpeg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: ""}
+
+-
+  id: 5
+  name: "Wedzerayi"
+  surname: "Munyengwa"
+  company: "Steward Bank"
+  title: "Python & Graphql"
+  bio: "Wedze began programming in python 10 years ago. Since then, he has used it for writing Web applications, REST APIs, GraphQL APIs, machine learning programs,automation scripts and many other types of applications. He is currently a Systems Developer at Steward Bank"
+  thumbnailUrl: wedze.jpeg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: ""}
+
+-
+  id: 6
+  name: "Iwan"
+  surname: "Vosloo"
+  company: "Reahl"
+  title: "Components and Configuration in Reahl"
+  bio: "wan coaches agile teams in the corporate world. This includes helping programmers to apply practices such as testing and object oriented design in the context of existing systems that have grown convoluted and debilitating over time---making the application of such practices challenging.
+
+His spare time goes into Reahl (http://www.reahl.org) -- an experiment to try and implement a different way of thinking about web application development. Reahl offers Python classes that allow you to represent a user interface using only Python. Behind the scenes, Reahl makes your Python code work using the normal HTML/CSS/JS/HTTP, but the burden of how to do that is taken care of.
+"
+  thumbnailUrl: iwan.jpeg
   rockstar: true
   social:
     - {name: "google-plus", link: ""}
