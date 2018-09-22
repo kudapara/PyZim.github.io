@@ -64,3 +64,12 @@ I have done talks before on the testing infrastructure we use, but we also have 
   - In this talk I’d like to explain the component-nature of Reahl programs and how we handle configuration in that environment."
   subtype: workshop
 -
+-
+  id: 7 
+  title: "Machine learning in Entomology"
+  place: "The Nexus"
+  service: true
+  speakers: [7]
+  description: ""
+  subtype: workshop
+-

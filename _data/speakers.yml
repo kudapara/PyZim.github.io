@@ -71,3 +71,15 @@ His spare time goes into Reahl (http://www.reahl.org) -- an experiment to try an
   rockstar: true
   social:
     - {name: "google-plus", link: ""}
+
+-
+  id: 7
+  name: "Tariro"
+  surname: "Chagwizwa"
+  company: "Women's University in Africa"
+  title: "Python in Machine Learning"
+  bio: "Passionate Python programmer and I am all for women in Tech and women coders. I am part of the pioneering team of a tech-hub group from my University called the LIT squad meaning Ladies In Tech. I hold a Higher National Diploma in Information Technology and a BSc in Information systems. I love pizza. It is my spirit food :)"
+  thumbnailUrl: tari.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: ""}
