@@ -82,3 +82,48 @@ I have done talks before on the testing infrastructure we use, but we also have 
   description: ""
   subtype: workshop
 -
+-
+  id: 8 
+  title: "A, B, C, Deep Learning "
+  place: "The Nexus"
+  service: true
+  speakers: [8]
+  description: ""
+  subtype: workshop
+-
+-
+  id: 9 
+  title: "The beauty of Python Collections."
+  place: "The Nexus"
+  service: true
+  speakers: [9]
+  description: ""
+  subtype: workshop
+-
+-
+  id: 10 
+  title: "Python and the Business World - How to Improve?"
+  place: "The Nexus"
+  service: true
+  speakers: [10]
+  description: ""
+  subtype: workshop
+-
+-
+  id: 12 
+  title: "Python Data science backbone for the Web with Tensorflow"
+  place: "The Nexus"
+  service: true
+  speakers: [12]
+  description: ""
+  subtype: workshop
+-
+-
+  id: 11 
+  title: "MESA, NetworkX, Agent-Based Models, Complex Networks, Economics, Complexity"
+  place: "The Nexus"
+  service: true
+  speakers: [11]
+  description: ""
+  subtype: workshop
+-
