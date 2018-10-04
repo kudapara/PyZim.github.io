@@ -48,7 +48,7 @@ navigationLinks:
  - {permalink: "/cod/", text: "Code Of Conduct"}
  - {permalink: "/#about", text: "About"}
  - {permalink: "/#partners", text: "Sponsors"}
- # - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/#rockstar-speakers", text: "Speakers"}
  # - {permalink: "/team/", text: "Team"}
  # - {permalink: "/logistics/", text: "Logistics"}

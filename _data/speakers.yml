@@ -2,22 +2,22 @@
   id: 1
   name: "Cleopatra"
   surname: "Douglas"
-  company: "Guaranty Trust Bank (SL) ltd"
+  company: "Guaranty Trust Bank (SL) ltd, Sierra Leonne"
   title: "African Tech Educator"
   bio: "I am an African Tech Educator. I am particularly hyped on Fintech and education in Africa. I am currently working on developing and enhancing payment systems with an organization in sierra leone, as well as contribute to developing and maintaining developer communities in Africa."
-  thumbnailUrl: cleopatra.jpg"
+  thumbnailUrl: cleopatra.jpg
   rockstar: true
   social:
-    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
 
 -
   id: 2
   name: "Nick"
   surname: "Doiron"
-  company: "McKinsey & Company"
+  company: "McKinsey & Company, USA"
   title: "Geospatial Data in Python and PostgreSQL"
   bio: "Nick is a senior software engineer and geospatial analyst at McKinsey & Company. In the past he has worked with Code for America, One Laptop per Child, the Asia Foundation, and the Museum of Modern Art (NYC)."
-  thumbnailUrl: nick.jpg"
+  thumbnailUrl: nick.jpg
   rockstar: true
   social:
     - {name: "google-plus", link: ""}
@@ -30,7 +30,7 @@
   title: "BitMari Smart Farm Contract"
   bio: "Tongayi is the Product Development at BitMari, a Pan-African Fintech startup that is focused on building the African Diaspora's financial solutions."
   thumbnailUrl: tongai.jpeg
-  rockstar: true
+  rockstar: false
   social:
     - {name: "google-plus", link: ""}
 -
@@ -68,7 +68,7 @@
 His spare time goes into Reahl (http://www.reahl.org) -- an experiment to try and implement a different way of thinking about web application development. Reahl offers Python classes that allow you to represent a user interface using only Python. Behind the scenes, Reahl makes your Python code work using the normal HTML/CSS/JS/HTTP, but the burden of how to do that is taken care of.
 "
   thumbnailUrl: iwan.jpeg
-  rockstar: true
+  rockstar: false
   social:
     - {name: "google-plus", link: ""}
 
@@ -80,7 +80,7 @@ His spare time goes into Reahl (http://www.reahl.org) -- an experiment to try an
   title: "Python in Machine Learning"
   bio: "Passionate Python programmer and I am all for women in Tech and women coders. I am part of the pioneering team of a tech-hub group from my University called the LIT squad meaning Ladies In Tech. I hold a Higher National Diploma in Information Technology and a BSc in Information systems. I love pizza. It is my spirit food :)"
   thumbnailUrl: tari.jpg
-  rockstar: true
+  rockstar: false
   social:
     - {name: "google-plus", link: ""}
 
@@ -92,7 +92,7 @@ His spare time goes into Reahl (http://www.reahl.org) -- an experiment to try an
   title: "A, B, C, Deep Learning "
   bio: "Achim Munene is a full stack Python and iOS developer,  who has been working with python for over five years, he recently got nominated to attend the Deep Learning Indaba to present his poster on an Autonomous Shopping assistant and develops video courses for Packt publishers. He is a Docker captain, writes performance based Django and Flask code, dreams elegant design and is a swift fanatic. You can find him either writing code, in the gym or Designing the next big thing (possibly)"
   thumbnailUrl: achim.jpeg
-  rockstar: true
+  rockstar: false
   social:
     - {name: "google-plus", link: ""}
 
@@ -104,7 +104,7 @@ His spare time goes into Reahl (http://www.reahl.org) -- an experiment to try an
   title: "The beauty of Python Collections."
   bio: "Tsitsi Flora Munikwa is a 3rd-year Cyber Security student at Harare Institute of Technology, in Belvedere, Harare. She is very enthusiastic about Python and mostly, being part of the Python community which she says is the core feature contributing to her growth. That being said, she is an upcoming Python developer and is currently doing a remote internship at Dimension Data. Tsitsi is an aspiring hacker and enjoys penetration testing, hoping that one day she will become a professional security analyst/consultant. "
   thumbnailUrl: tsitse.jpeg
-  rockstar: true
+  rockstar: false
   social:
     - {name: "google-plus", link: ""}
 
@@ -116,7 +116,7 @@ His spare time goes into Reahl (http://www.reahl.org) -- an experiment to try an
   title: "Python and the Business World - How to Improve?"
   bio: "I am an internet entrepreneur with interest in Web Development and Administration."
   thumbnailUrl: masimba.jpeg
-  rockstar: true
+  rockstar: false
   social:
     - {name: "google-plus", link: ""}
 
@@ -128,7 +128,7 @@ His spare time goes into Reahl (http://www.reahl.org) -- an experiment to try an
   title: "Python Data science backbone for the Web with Tensorflow"
   bio: "I am Web Developer who is also studying Industrial Engineering at NUST.  I am the Technological officer at the Tech village. I am also looked at how to integrate technologies together. "
   thumbnailUrl: kudzai.jpeg
-  rockstar: true
+  rockstar: false
   social:
     - {name: "google-plus", link: ""}
 
@@ -140,6 +140,17 @@ His spare time goes into Reahl (http://www.reahl.org) -- an experiment to try an
   title: "MESA, NetworkX, Agent-Based Models, Complex Networks, Economics, Complexity"
   bio: "I come from an economics and finance background, recently returned from doing a Masters in Data Science in Turin, Italy. Discovered Python whilst working as a business analyst at Boka Tobacco Floors, and found myself drawn to data science and machine and deep learning. Hoping to be part of the Economics revolution in Africa, whilst also changing the analytics landscape in both industry and academia, and as a result I am currently working to have Data Science Zimbabwe, an organisation started with the sole purpose of bringing together all those in data-related fields, visible in Zimbabwe and hopefully to Africa as a whole and fronting the adoption of developments in the 4th Industrial Revolution in Africa."
   thumbnailUrl: leo.jpeg
-  rockstar: true
+  rockstar: false
+  social:
+    - {name: "google-plus", link: ""}
+-
+  id: 13
+  name: "Leonard"
+  surname: "Mutambanengwe"
+  company: "Siege Communications"
+  title: "Sponsored Talk"
+  bio: ""
+  thumbnailUrl: leo.jpeg
+  rockstar: false
   social:
     - {name: "google-plus", link: ""}

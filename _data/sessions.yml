@@ -24,8 +24,27 @@ More recently, banks and utility companies have started taking advantage of the 
   place: "The Nexus"
   service: true
   speakers: [4]
+  language: en
+  subtype: presentation
   description: "Remote jobs are becoming more prevalent with each passing year because they allow for flexibility in choosing your working hours and work location. This talk will explain useful ways to find remote work and give tips based on my personal experience as a remote employee. The talk will discuss different payment methods freelancers can use to receive payments from international clients. Lastly, the talk will cover productivity tips that will help listeners to work effectively and thrive in a remote environment."
 -
+-
+  id: 24 
+  title: "Coffee Break"
+  place: "The Nexus"
+  service: true
+  speakers: []
+  description: "The best time to talk with speakers and attendees"
+-
+-
+  id: 25 
+  title: "Lunch"
+  place: "The Nexus"
+  service: true
+  speakers: []
+  description: "The best time to talk with speakers and attendees"
+-
+
 -
   id: 2 
   title: "Geospatial Data in Python and PostgreSQL"
@@ -124,6 +143,15 @@ I have done talks before on the testing infrastructure we use, but we also have 
   place: "The Nexus"
   service: true
   speakers: [11]
+  description: ""
+  subtype: workshop
+-
+-
+  id: 13 
+  title: "Sponsored Talk-Siege Communications"
+  place: "The Nexus"
+  service: true
+  speakers: [123]
   description: ""
   subtype: workshop
 -
