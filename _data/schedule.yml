@@ -1,27 +1,6 @@
 -
-  date: "2014-10-19"
+  date: "2018-10-19"
   dateReadable: "October 19"
-  tracks: 
-    - {title: "Workshops & Trainings Day", color: "#90be4e"}
-  timeslots:
-    - {
-    	startTime: "9:00",
-    	endTime: "13:00",
-    	sessionIds: [002, 12]
-    }
-    - {
-        startTime: "13:00",
-        endTime: "14:00",
-        sessionIds: [25]
-    }
-    - {
-    	startTime: "14:00",
-    	endTime: "16:00",
-    	sessionIds: [8]
-    }
--
-  date: "2018-10-20"
-  dateReadable: "October 20"
   tracks:
     - {title: "Main Conference", color: "#90be4e"}
   timeslots:
@@ -90,4 +69,25 @@
       startTime: "16:00",
       endTime: "16:30",
     	sessionIds: [13]
+    }
+-
+  date: "2018-10-20"
+  dateReadable: "October 20"
+  tracks: 
+    - {title: "Workshops & Trainings Day", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "9:00",
+    	endTime: "13:00",
+    	sessionIds: [002, 12]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "14:00",
+        sessionIds: [25]
+    }
+    - {
+    	startTime: "14:00",
+    	endTime: "16:00",
+    	sessionIds: [8]
     }

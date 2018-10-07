@@ -103,7 +103,7 @@ His spare time goes into Reahl (http://www.reahl.org) -- an experiment to try an
   company: "Harare Insitute of Technology"
   title: "The beauty of Python Collections."
   bio: "Tsitsi Flora Munikwa is a 3rd-year Cyber Security student at Harare Institute of Technology, in Belvedere, Harare. She is very enthusiastic about Python and mostly, being part of the Python community which she says is the core feature contributing to her growth. That being said, she is an upcoming Python developer and is currently doing a remote internship at Dimension Data. Tsitsi is an aspiring hacker and enjoys penetration testing, hoping that one day she will become a professional security analyst/consultant. "
-  thumbnailUrl: tsitse.jpeg
+  thumbnailUrl: tsitsi.jpg
   rockstar: false
   social:
     - {name: "google-plus", link: ""}
@@ -115,19 +115,19 @@ His spare time goes into Reahl (http://www.reahl.org) -- an experiment to try an
   company: "Marmasco"
   title: "Python and the Business World - How to Improve?"
   bio: "I am an internet entrepreneur with interest in Web Development and Administration."
-  thumbnailUrl: masimba.jpeg
+  thumbnailUrl: masimba.png
   rockstar: false
   social:
     - {name: "google-plus", link: ""}
 
 -
   id:  12
-  name: "Developer"
-  surname: "Prince"
+  name: "Prince"
+  surname: "Maphosa"
   company: "The Tech Village"
   title: "Python Data science backbone for the Web with Tensorflow"
   bio: "I am Web Developer who is also studying Industrial Engineering at NUST.  I am the Technological officer at the Tech village. I am also looked at how to integrate technologies together. "
-  thumbnailUrl: kudzai.jpeg
+  thumbnailUrl: prince.jpg
   rockstar: false
   social:
     - {name: "google-plus", link: ""}
