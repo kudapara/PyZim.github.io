@@ -145,12 +145,12 @@ His spare time goes into Reahl (http://www.reahl.org) -- an experiment to try an
     - {name: "google-plus", link: ""}
 -
   id: 13
-  name: "Leonard"
-  surname: "Mutambanengwe"
-  company: "Siege Communications"
+  name: "Siege"
+  surname: "Siege"
+  company: "Siege"
   title: "Sponsored Talk"
   bio: ""
-  thumbnailUrl: leo.jpeg
+  thumbnailUrl: siege.png
   rockstar: false
   social:
     - {name: "google-plus", link: ""}
