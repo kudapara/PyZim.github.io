@@ -1,0 +1,10 @@
+- 
+  group: "Main Sponsor"
+  elements: 
+    - {name: "Django Software FoUndation ", description: "dsf", link: "https://djangoproject.com/", imageUrl: "django.png"}
+- 
+  group: "With support of"
+  elements: 
+    - {name: "Nexmo", description: "Nexmo", link: "https://nexmo.com", imageUrl: "nexmo.png", width: "240px"}
+- 
+  group: "Information partners"

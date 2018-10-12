@@ -94,9 +94,9 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "B2C Coworking"
-eventLocationLink: "http://www.b2c.co.zw/"
-eventStreetAddress: "Cnr Jason Moyo Ave and First Street, Harare"
+eventLocationName: "Cresta Oasis Hotel"
+eventLocationLink: "http://www.crestahotels.com/hotels/cresta-oasis"
+eventStreetAddress: "124, Nelson Mandela Avenue, Harare"
 eventAddressLocality: "Harare"
 eventAddressLocalityRegion: "Harare"
 eventPostalCode: "79000"
@@ -104,8 +104,8 @@ eventAddressCountry: "Harare"
 eventStartTime: "2018-10-18T08:00"
 eventDoorTime: "08:00"
 eventEndTime: "2018-10-20T20:00"
-eventPlaceCoordinates: "17.8995548,30.9545836"
-mapCenterCoordinates: "17.8995548,30.9545836"
+eventPlaceCoordinates: "17.8992973,30.9547125"
+mapCenterCoordinates: "17.8992973,30.9547125"
 mapMobileCenterCoordinates: "17.8252, 31.0335"
 
 # Venue Block
