@@ -1,7 +1,7 @@
 -
   id: 5
   title: "Graphql & Python"
-  place: "The Nexus"
+  place: "Cresta Oasis Hotel"
   service: true
   speakers: [5]
   description: "One of the most commonly occurring data structures in life is a graph. Our relationships on social platforms like Facebook and Twitter are just few of the examples that can be represented in this way.In this talk we will present how to use python to present a GraphQL API . In particular we will use the python packages flask and graphene-python to build a graph of the local music industry and expose it as a GraphQL API. "
@@ -9,7 +9,7 @@
 -
   id: 1 
   title: "USSD FOR AFRICA (A CASE STUDY OF AFRICAISTALKING API AND CAREERAWAREAFRICA)"
-  place: "The Nexus"
+  place: "Cresta Oasis Hotel"
   service: true
   speakers: [1]
   description: "Every time you dial *XYZ# to check the airtime balance on your phone, you are using a decades old technology standard called USSD. For a very long time, that’s pretty much all it was used for, but now the game has changed.
@@ -21,7 +21,7 @@ More recently, banks and utility companies have started taking advantage of the 
 -
   id: 4 
   title: "A guide to getting remote work"
-  place: "The Nexus"
+  place: "Cresta Oasis Hotel"
   service: true
   speakers: [4]
   language: en
@@ -31,15 +31,31 @@ More recently, banks and utility companies have started taking advantage of the 
 -
   id: 24 
   title: "Coffee Break"
-  place: "The Nexus"
+  place: "Cresta Oasis Hotel"
   service: true
   speakers: []
   description: "The best time to talk with speakers and attendees"
 -
 -
+  id: 101 
+  title: "Registration + Coffee"
+  place: "Cresta Oasis Hotel"
+  service: true
+  speakers: []
+  description: "The best time to talk with speakers and attendees"
+-
+-
+  id: 102 
+  title: "Welcome"
+  place: "Cresta Oasis Hotel"
+  service: true
+  speakers: []
+  description: "PyZim"
+-
+-
   id: 25 
   title: "Lunch"
-  place: "The Nexus"
+  place: "Cresta Oasis Hotel"
   service: true
   speakers: []
   description: "The best time to talk with speakers and attendees"
@@ -48,25 +64,16 @@ More recently, banks and utility companies have started taking advantage of the 
 -
   id: 2 
   title: "Geospatial Data in Python and PostgreSQL"
-  place: "The Nexus"
+  place: "The Nexus-B2C Coworking"
   service: true
   speakers: [2]
   description: "Learn how to make an interactive map, focusing on the backend Python server and a PostgreSQL/PostGIS database. This workshop covers each step from finding sources of geospatial data (official sources, OpenStreetMap), to making standard SQL and spatial queries, to writing an API in Python to support a website. Best for programmers with previous Python or SQL experience."
-  subtype: workshop
--
--
-  id: 2 
-  title: "Geospatial Data in Python and PostgreSQL"
-  place: "The Nexus"
-  service: true
-  speakers: [2]
-  description: "Learn how to make an interactive map, focusing on the backend Python server and a PostgreSQL/PostGIS database. This workshop covers each step from finding sources of geospatial data (official sources, OpenStreetMap), to making standard SQL and spatial queries, to writing an API in Python to support a website. Best for programmers with previous Python or SQL experience."
-  subtype: workshop
+  subtype: talk
 -
 -
   id: 6 
   title: "Components and Configuration in Reahl"
-  place: "The Nexus"
+  place: "Cresta Oasis Hotel"
   service: true
   speakers: [6]
   description: "I am an advocate of the idea that Africans should develop and export open source software. I also like to lead by example: I am the main author of Reahl, a full-stack web framework that allows you to write a web application using Python only, and on a high level of abstraction.
@@ -81,48 +88,48 @@ I have done talks before on the testing infrastructure we use, but we also have 
   - internationalisation; and
   -database schema migration.
   - In this talk I’d like to explain the component-nature of Reahl programs and how we handle configuration in that environment."
-  subtype: workshop
+  subtype: talk
 -
 -
   id: 7 
   title: "Machine learning in Entomology"
-  place: "The Nexus"
+  place: "Cresta Oasis Hotel"
   service: true
   speakers: [7]
   description: ""
-  subtype: workshop
+  subtype: talk
 -
 -
   id:  3 
   title: "BitMari Smart Farm Contracts with Python"
-  place: "The Nexus"
+  place: "Cresta Oasis Hotels"
   service: true
   speakers: [3]
   description: ""
-  subtype: workshop
+  subtype: talk
 -
 -
   id: 8 
   title: "A, B, C, Deep Learning "
-  place: "The Nexus"
+  place: "B2Cs"
   service: true
   speakers: [8]
   description: ""
-  subtype: workshop
+  subtype: talk
 -
 -
   id: 9 
   title: "The beauty of Python Collections."
-  place: "The Nexus"
+  place: "Cresta Oasis Hotel"
   service: true
   speakers: [9]
   description: ""
-  subtype: workshop
+  subtype: talk
 -
 -
   id: 10 
   title: "Python and the Business World - How to Improve?"
-  place: "The Nexus"
+  place: "Cresta Oasis Hotel"
   service: true
   speakers: [10]
   description: ""
@@ -131,7 +138,7 @@ I have done talks before on the testing infrastructure we use, but we also have 
 -
   id: 12 
   title: "Python Data science backbone for the Web with Tensorflow"
-  place: "The Nexus"
+  place: "The Nexus - B2C Coworking"
   service: true
   speakers: [12]
   description: ""
@@ -140,7 +147,7 @@ I have done talks before on the testing infrastructure we use, but we also have 
 -
   id: 11 
   title: "MESA, NetworkX, Agent-Based Models, Complex Networks, Economics, Complexity"
-  place: "The Nexus"
+  place: "Cresta Oasis Hotel"
   service: true
   speakers: [11]
   description: ""
@@ -149,7 +156,7 @@ I have done talks before on the testing infrastructure we use, but we also have 
 -
   id: 13 
   title: "Sponsored Talk-Siege"
-  place: "The Nexus"
+  place: "Cresta Oasis Hotel"
   service: true
   speakers: [123]
   description: ""

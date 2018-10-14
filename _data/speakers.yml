@@ -8,7 +8,7 @@
   thumbnailUrl: cleopatra.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: ""}
+    - {name: "twitter", link: "https://twitter.com/succedor23"}
 
 -
   id: 2
@@ -20,7 +20,7 @@
   thumbnailUrl: nick.jpg
   rockstar: true
   social:
-    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: "https://twitter.com/mapmeld"}
 
 -
   id: 3
@@ -32,7 +32,7 @@
   thumbnailUrl: tongai.jpeg
   rockstar: false
   social:
-    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: "https://twitter.com/Tongayi_"}
 -
   id: 4
   name: "Vuyisile"
@@ -43,7 +43,7 @@
   thumbnailUrl: vuyi.jpeg
   rockstar: true
   social:
-    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
 
 -
   id: 5
@@ -55,7 +55,7 @@
   thumbnailUrl: wedze.jpeg
   rockstar: true
   social:
-    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
 
 -
   id: 6
@@ -70,7 +70,7 @@ His spare time goes into Reahl (http://www.reahl.org) -- an experiment to try an
   thumbnailUrl: iwan.jpeg
   rockstar: false
   social:
-    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
 
 -
   id: 7
@@ -82,7 +82,7 @@ His spare time goes into Reahl (http://www.reahl.org) -- an experiment to try an
   thumbnailUrl: tari.jpg
   rockstar: false
   social:
-    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
 
 -
   id: 8
@@ -94,7 +94,7 @@ His spare time goes into Reahl (http://www.reahl.org) -- an experiment to try an
   thumbnailUrl: achim.jpeg
   rockstar: false
   social:
-    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: "https://twitter.com/achim_mnene"}
 
 -
   id: 9 
@@ -106,7 +106,7 @@ His spare time goes into Reahl (http://www.reahl.org) -- an experiment to try an
   thumbnailUrl: tsitsi.jpg
   rockstar: false
   social:
-    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: "https://twitter.com/tsitsimunikwa97"}
 
 -
   id: 10
@@ -118,7 +118,7 @@ His spare time goes into Reahl (http://www.reahl.org) -- an experiment to try an
   thumbnailUrl: masimba.png
   rockstar: false
   social:
-    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
 
 -
   id:  12
@@ -130,7 +130,7 @@ His spare time goes into Reahl (http://www.reahl.org) -- an experiment to try an
   thumbnailUrl: prince.jpg
   rockstar: false
   social:
-    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
 
 -
   id: 11
@@ -142,7 +142,7 @@ His spare time goes into Reahl (http://www.reahl.org) -- an experiment to try an
   thumbnailUrl: leo.jpg
   rockstar: false
   social:
-    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: "https://twitter.com/LeoLENNY1"}
 -
   id: 13
   name: "Siege"
@@ -153,4 +153,4 @@ His spare time goes into Reahl (http://www.reahl.org) -- an experiment to try an
   thumbnailUrl: siege.png
   rockstar: false
   social:
-    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
