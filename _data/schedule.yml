@@ -80,6 +80,11 @@
       endTime: "16:30",
     	sessionIds: [13]
     }
+    - {
+          startTime: "16:30",
+          endTime: "17:00",
+          sessionIds: [103]
+        }
 -
   date: "2018-10-20"
   dateReadable: "October 20 2018"

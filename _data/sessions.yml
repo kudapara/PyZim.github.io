@@ -53,6 +53,14 @@ More recently, banks and utility companies have started taking advantage of the 
   description: "PyZim"
 -
 -
+  id: 103 
+  title: "Lightning Talks"
+  place: "Cresta Oasis Hotel"
+  service: true
+  speakers: []
+  description: "Very short presentations lasting only a few minutes"
+-
+-
   id: 25 
   title: "Lunch"
   place: "Cresta Oasis Hotel"
