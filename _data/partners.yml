@@ -8,4 +8,7 @@
   elements: 
     - {name: "Nexmo", description: "Nexmo", link: "https://nexmo.com", imageUrl: "nexmo.png", width: "240px"}
 - 
-  group: "Information partners"
+  group: "Hackathlon sponsors"
+  elements: 
+    - {name: "Bitmari", description: "Bitmari", link: "https://bitmari.com", imageUrl: "bitmari.png", width: "240px"}
+
