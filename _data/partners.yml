@@ -1,7 +1,8 @@
 - 
-  group: "Main Sponsor"
+  group: "Main Sponsors"
   elements: 
     - {name: "Django Software FoUndation ", description: "dsf", link: "https://djangoproject.com/", imageUrl: "django.png"}
+    - {name: "Siege", description: "siege", link: "https://siege.ai/", imageUrl: "siege.jpg"}
 - 
   group: "With support of"
   elements: 
