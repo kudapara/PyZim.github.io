@@ -8,15 +8,11 @@
 -
 -
   id: 1 
-  title: "USSD FOR AFRICA (A CASE STUDY OF AFRICAISTALKING API AND CAREERAWAREAFRICA)"
+  title: "Python and the ai revolution"
   place: "Cresta Oasis Hotel"
   service: true
   speakers: [1]
-  description: "Every time you dial *XYZ# to check the airtime balance on your phone, you are using a decades old technology standard called USSD. For a very long time, that’s pretty much all it was used for, but now the game has changed.
-
-USSD stands for Unstructured Supplementary Service Data and I suppose it never got a catchy mainstream alias because it never really took off. Mobile operators, especially in Africa — where the market is primarily prepaid—typically use USSD for their internal applications such as balance checks, top-ups, data bundles, and promotions.
-
-More recently, banks and utility companies have started taking advantage of the protocol to build mobile banking and utility management applications all across the continent, but this can do even greater things for us. We can enhance our Education system/sector with this and make knowledge accessible. This talk is on building a USSD google for education."
+  description: ""
 -
 -
   id: 4 
