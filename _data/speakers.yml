@@ -5,10 +5,10 @@
   company: ""
   title: "Python and the ai revolution"
   bio: "Python and the ai revolution"
-  thumbnailUrl: panashe.jpg
+  thumbnailUrl: rename.jpg
   rockstar: false
   social:
-    - {name: "twitter", link: "https://twitter.com/succedor23"}
+    - {name: "twitter", link: "https://twitter.com"}
 
 -
   id: 2
