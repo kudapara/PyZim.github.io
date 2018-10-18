@@ -68,7 +68,7 @@
 -
   id: 2 
   title: "Geospatial Data in Python and PostgreSQL"
-  place: "The Nexus-B2C Coworking"
+  place: "Cresta Oasis Hotel"
   service: true
   speakers: [2]
   description: "Learn how to make an interactive map, focusing on the backend Python server and a PostgreSQL/PostGIS database. This workshop covers each step from finding sources of geospatial data (official sources, OpenStreetMap), to making standard SQL and spatial queries, to writing an API in Python to support a website. Best for programmers with previous Python or SQL experience."
@@ -115,7 +115,7 @@ I have done talks before on the testing infrastructure we use, but we also have 
 -
   id: 8 
   title: "A, B, C, Deep Learning "
-  place: "B2Cs"
+  place: "Cresta Oasis Hotel"
   service: true
   speakers: [8]
   description: ""
@@ -142,7 +142,7 @@ I have done talks before on the testing infrastructure we use, but we also have 
 -
   id: 12 
   title: "Python Data science backbone for the Web with Tensorflow"
-  place: "The Nexus - B2C Coworking"
+  place: "Cresta Oasis Hotel"
   service: true
   speakers: [12]
   description: ""
