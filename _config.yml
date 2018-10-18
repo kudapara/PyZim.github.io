@@ -153,7 +153,7 @@ ticketsOffers:
  #  disabled: true
  -
   name: "Regular"
-  price: "25"
+  price: "32"
   priceCurrency: "USD"
   ticketsNumber: "TBA"
   ribbon: "-20%"
@@ -166,7 +166,7 @@ ticketsOffers:
   validThrough: "2018-10-20T23:59"
  -
   name: "Student"
-  price: "15"
+  price: "20"
   priceCurrency: "USD"
   ticketsNumber: "TBA"
   buyButtonLink: "https://www.paynow.co.zw/Payment/Link/?q=c2VhcmNoPXB5dGhvbi56aW0lNDBnbWFpbC5jb20mYW1vdW50PTE1LjAwJnJlZmVyZW5jZT0mbD0x"
