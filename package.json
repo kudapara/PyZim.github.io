@@ -1,0 +1,31 @@
+{
+  "name": "the-good-shepherd",
+  "version": "1.0.0",
+  "description": "The Good Shepherd Website",
+  "author": "The Good Shepherd",
+  "private": true,
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development nodemon server/index.js --watch server",
+    "build": "nuxt build",
+    "start": "cross-env NODE_ENV=production node server/index.js",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cross-env": "^5.2.0",
+    "express": "^4.16.3",
+    "json2csv": "^4.3.3",
+    "nuxt": "^2.0.0",
+    "vue-good-table": "^2.16.0",
+    "vue-simple-progress": "^1.1.0"
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^1.1.0",
+    "autoprefixer": "^8.6.4",
+    "eslint-config-prettier": "^3.1.0",
+    "eslint-plugin-prettier": "2.6.2",
+    "nodemon": "^1.11.0",
+    "prettier": "1.14.3",
+    "tailwindcss": "~0.6.6"
+  }
+}
