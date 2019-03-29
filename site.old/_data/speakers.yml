@@ -1,0 +1,156 @@
+-
+  id: 1
+  name: "Dr"
+  surname: "Panashe"
+  company: ""
+  title: "Python and the ai revolution"
+  bio: "Python and the ai revolution"
+  thumbnailUrl: rename.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com"}
+
+-
+  id: 2
+  name: "Nick"
+  surname: "Doiron"
+  company: "McKinsey & Company, USA"
+  title: "Geospatial Data in Python and PostgreSQL"
+  bio: "Nick is a senior software engineer and geospatial analyst at McKinsey & Company. In the past he has worked with Code for America, One Laptop per Child, the Asia Foundation, and the Museum of Modern Art (NYC)."
+  thumbnailUrl: nick.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/mapmeld"}
+
+-
+  id: 3
+  name: "Tongayi"
+  surname: "Choto"
+  company: "BitMari"
+  title: "BitMari Smart Farm Contract"
+  bio: "Tongayi is the Product Development at BitMari, a Pan-African Fintech startup that is focused on building the African Diaspora's financial solutions."
+  thumbnailUrl: tongai.jpeg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/Tongayi_"}
+-
+  id: 4
+  name: "Vuyisile"
+  surname: "Ndlovhu"
+  company: "Reahl Python"
+  title: "A guide to getting remote work"
+  bio: "Blogger, Software Developer, Editorial Assistant at Real Python."
+  thumbnailUrl: vuyi.jpeg
+  rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+
+-
+  id: 5
+  name: "Wedzerayi"
+  surname: "Munyengwa"
+  company: "Steward Bank"
+  title: "Python & Graphql"
+  bio: "Wedze began programming in python 10 years ago. Since then, he has used it for writing Web applications, REST APIs, GraphQL APIs, machine learning programs,automation scripts and many other types of applications. He is currently a Systems Developer at Steward Bank"
+  thumbnailUrl: wedze.jpeg
+  rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+
+-
+  id: 6
+  name: "Iwan"
+  surname: "Vosloo"
+  company: "Reahl"
+  title: "Components and Configuration in Reahl"
+  bio: "wan coaches agile teams in the corporate world. This includes helping programmers to apply practices such as testing and object oriented design in the context of existing systems that have grown convoluted and debilitating over time---making the application of such practices challenging.
+
+His spare time goes into Reahl (http://www.reahl.org) -- an experiment to try and implement a different way of thinking about web application development. Reahl offers Python classes that allow you to represent a user interface using only Python. Behind the scenes, Reahl makes your Python code work using the normal HTML/CSS/JS/HTTP, but the burden of how to do that is taken care of.
+"
+  thumbnailUrl: iwan.jpeg
+  rockstar: false
+  social:
+    - {name: "twitter", link: ""}
+
+-
+  id: 7
+  name: "Tariro"
+  surname: "Chagwizwa"
+  company: "Women's University in Africa"
+  title: "Python in Machine Learning"
+  bio: "Passionate Python programmer and I am all for women in Tech and women coders. I am part of the pioneering team of a tech-hub group from my University called the LIT squad meaning Ladies In Tech. I hold a Higher National Diploma in Information Technology and a BSc in Information systems. I love pizza. It is my spirit food :)"
+  thumbnailUrl: tari.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: ""}
+
+-
+  id: 8
+  name: "Achim"
+  surname: "Munene"
+  company: ""
+  title: "A, B, C, Deep Learning "
+  bio: "Achim Munene is a full stack Python and iOS developer,  who has been working with python for over five years, he recently got nominated to attend the Deep Learning Indaba to present his poster on an Autonomous Shopping assistant and develops video courses for Packt publishers. He is a Docker captain, writes performance based Django and Flask code, dreams elegant design and is a swift fanatic. You can find him either writing code, in the gym or Designing the next big thing (possibly)"
+  thumbnailUrl: achim.jpeg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/achim_mnene"}
+
+-
+  id: 9 
+  name: "Tsitsi Flora"
+  surname: "Munikwa"
+  company: "Harare Insitute of Technology"
+  title: "The beauty of Python Collections."
+  bio: "Tsitsi Flora Munikwa is a 3rd-year Cyber Security student at Harare Institute of Technology, in Belvedere, Harare. She is very enthusiastic about Python and mostly, being part of the Python community which she says is the core feature contributing to her growth. That being said, she is an upcoming Python developer and is currently doing a remote internship at Dimension Data. Tsitsi is an aspiring hacker and enjoys penetration testing, hoping that one day she will become a professional security analyst/consultant. "
+  thumbnailUrl: tsitsi.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/tsitsimunikwa97"}
+
+-
+  id: 10
+  name: "Masimba"
+  surname: "Maregedze"
+  company: "Marmasco"
+  title: "Python and the Business World - How to Improve?"
+  bio: "I am an internet entrepreneur with interest in Web Development and Administration."
+  thumbnailUrl: masimba.png
+  rockstar: false
+  social:
+    - {name: "twitter", link: ""}
+
+-
+  id:  12
+  name: "Prince"
+  surname: "Maphosa"
+  company: "The Tech Village"
+  title: "Python Data science backbone for the Web with Tensorflow"
+  bio: "I am Web Developer who is also studying Industrial Engineering at NUST.  I am the Technological officer at the Tech village. I am also looked at how to integrate technologies together. "
+  thumbnailUrl: prince.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: ""}
+
+-
+  id: 11
+  name: "Leonard"
+  surname: "Mutambanengwe"
+  company: "Data Science Zimbabwe"
+  title: "MESA, NetworkX, Agent-Based Models, Complex Networks, Economics, Complexity"
+  bio: "I come from an economics and finance background, recently returned from doing a Masters in Data Science in Turin, Italy. Discovered Python whilst working as a business analyst at Boka Tobacco Floors, and found myself drawn to data science and machine and deep learning. Hoping to be part of the Economics revolution in Africa, whilst also changing the analytics landscape in both industry and academia, and as a result I am currently working to have Data Science Zimbabwe, an organisation started with the sole purpose of bringing together all those in data-related fields, visible in Zimbabwe and hopefully to Africa as a whole and fronting the adoption of developments in the 4th Industrial Revolution in Africa."
+  thumbnailUrl: leo.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/LeoLENNY1"}
+-
+  id: 13
+  name: "Siege"
+  surname: "Siege"
+  company: "Siege"
+  title: "Sponsored Talk"
+  bio: ""
+  thumbnailUrl: siege.png
+  rockstar: false
+  social:
+    - {name: "twitter", link: ""}
